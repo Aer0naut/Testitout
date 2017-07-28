@@ -1,2 +1,4 @@
 master file has the shizzle
 now with feature a
+
+Im writing stuff for feature c
